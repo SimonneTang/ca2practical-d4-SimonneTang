@@ -54,7 +54,7 @@ Hub will do the necessary code tracking.
 | Parts                       | Deadline                                                             |
 |:----------------------------|:---------------------------------------------------------------------|
 | Solution for CA2 Practical  | Pushed into this repository by <u>30 May 2021 2359hr</u>, <b>and</b> <p> Compress the Android project into a .zip file named <your name>.zip and submit via File Submission named ‘Practical 2 Assessment Submission’ in LEO Lesson 6 learning path, latest by <u>30 May 2021 2359hr</u>  |
-| Recorded Video              | Video title must follow the format “C346 CA2 – 1901xxxx”, where 1901xxxx to be replaced with your student ID. <p> Access rights (owner) set to jason_lim@rp.edu.sg <p> <**Paste MS Stream URL here**>                                       |
+| Recorded Video              | Video title must follow the format “C346 CA2 – 1901xxxx”, where 1901xxxx to be replaced with your student ID. <p> Access rights (owner) set to jason_lim@rp.edu.sg <p> <**https://web.microsoftstream.com/video/6ac51f33-4187-4238-9044-011d25902b71**>                                       |
 
 
 ### Resources:
